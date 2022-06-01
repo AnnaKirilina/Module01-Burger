@@ -89,7 +89,7 @@ header {
 }
 .dg {
     text-align: center;
-    background-image: url(../images/main/png/Group.png);
+    background-image: url(../images/main/Groups.jpg);
     color: #FFFFFF;
     background-size: cover;
     background-position: center center;
@@ -140,7 +140,7 @@ header {
     margin: 0 auto;
 }
 .banner-box {
-    background-image: url(../images/main/png/banners.png);
+    background-image: url(../images/main/banner.jpg);
     background-repeat: no-repeat;
     max-width: 1180px;
     max-height: 438px;
